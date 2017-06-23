@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/carlos.cordero/QuakeReport/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/carlos.cordero/QuakeReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a3c7c38cf43f24dfa9706c59a28ddc8ea49b55c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/carlos.cordero/QuakeReport/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0aaca036fd5ffcde2b52946c33d64a3fedec754">
+        <dex dex="/Users/carlos.cordero/QuakeReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a34eb50085a4a26740f706788d38b6028ba084fd/classes.dex" />
+    </item>
+
+</items>
