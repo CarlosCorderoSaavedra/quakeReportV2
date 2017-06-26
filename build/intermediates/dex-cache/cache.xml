@@ -2,22 +2,46 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/carlos.cordero/QuakeReport/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/carlos.cordero/QuakeReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a3c7c38cf43f24dfa9706c59a28ddc8ea49b55c3/classes.dex" />
+        jar="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_2c642a7ea80d601c868f0e050012132626b53f13.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/carlos.cordero/QuakeReport/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b0aaca036fd5ffcde2b52946c33d64a3fedec754">
-        <dex dex="/Users/carlos.cordero/QuakeReport/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a34eb50085a4a26740f706788d38b6028ba084fd/classes.dex" />
+        jar="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_989fc27dc5380f133787bd1d1b9d2434f401aca6.jar" />
+    </item>
+    <item
+        jar="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_be09b20e77e0d3f5d22e6ddb45882b1bb966118e.jar" />
+    </item>
+    <item
+        jar="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_9a0dd6ae28da3929dbc3a18c01896b498aa6fa36.jar" />
+    </item>
+    <item
+        jar="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_148abc3759956bcda353d20ab867d4c0ce838ac5.jar" />
+    </item>
+    <item
+        jar="/Users/carlos.cordero/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/carlos.cordero/ud843-QuakeReport-f0f9cd5ee7a8d67bd2e6f7e2539664a95499831b/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_dd668393333b7063a9cf0b75fe85a257f232c69e.jar" />
     </item>
 
 </items>
